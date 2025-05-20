@@ -28,18 +28,18 @@
 - 사용자 행동 예측을 통한 피드백 시스템 적용  
 <br>
 
-### 준비중인 자격증
-- 정보처리기사 (2025년 2월 ~ 7월)
-- OPic (2025년 7월)
 
-- <br>
 ### 💼 미래 내일 일경험 프로그램  
 > 2025년 6월 ~ 8월 예정  
 - 뉴스에이전트 AI 프로그램 개발
 <br>
-
 ---
 
+### 준비중인 자격증
+- 정보처리기사 (2025년 2월 ~ 7월)
+- OPic (2025년 7월)
+<br>
+---
 ### 📫 Contact
 - Email: maddux0782@gmail.com
 - GitHub: [@apprentice-of-gpt](https://github.com/apprentice-of-gpt)
