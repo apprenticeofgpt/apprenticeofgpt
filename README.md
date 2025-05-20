@@ -34,7 +34,6 @@
 - 뉴스에이전트 AI 프로그램 개발
 <br>
 ---
-
 ### 준비중인 자격증
 - 정보처리기사 (2025년 2월 ~ 7월)
 - OPic (2025년 7월)
@@ -44,6 +43,5 @@
 - Email: maddux0782@gmail.com
 - GitHub: [@apprentice-of-gpt](https://github.com/apprentice-of-gpt)
 
----
 
 
